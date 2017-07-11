@@ -1,6 +1,7 @@
 package app;
 
 import app.index.IndexController;
+import app.login.LoginController;
 import app.user.UserDao;
 import app.util.Filters;
 import app.util.Path;
